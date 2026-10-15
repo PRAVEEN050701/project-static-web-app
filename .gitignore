@@ -1,0 +1,10 @@
+# Operating System Junk Files
+.DS_Store
+Thumbs.db
+
+# Code Editor Folders
+.vscode/
+.idea/
+
+# Temporary Logs
+*.log
